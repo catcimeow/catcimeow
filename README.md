@@ -32,9 +32,9 @@
 - 🎵 Fun fact: **I code to Taylor Swift playlists** 🎶
 
 </td>
-<td width="100%">
+<td width="150%">
   <div align="center">
-    <img src="https://cdna.artstation.com/p/assets/images/images/068/430/314/original/francisco-jimenez-neo-tabula-rasa-01.gif?1697777870" width="250" alt="Princess Status" />
+    <img src="https://cdna.artstation.com/p/assets/images/images/068/430/314/original/francisco-jimenez-neo-tabula-rasa-01.gif?1697777870" width="350" alt="Princess Status" />
   </div>
 </td>
 
