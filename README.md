@@ -38,7 +38,9 @@
 <td width="50%">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=300&lines=👑+Coding+Princess+👑;🌸+Pixel+Perfect+Code+🌸" alt="Princess Status" />
 </div>
 
 </td>
