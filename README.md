@@ -33,14 +33,11 @@
 
 </td>
 <td width="50%">
-
-<div align="center">
-  <img src="https://imgur.com/a/c65Peqf.gif" width="200"/>
-  <br>
-  <img src="https://imgur.com/a/c65Peqf" alt="Princess Status" />
-</div>
-
+  <div align="center">
+    <img src="https://i.imgur.com/ZJzfL7n.gif" width="200" alt="Princess Status" />
+  </div>
 </td>
+
 </tr>
 </table>
 
