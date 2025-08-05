@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Frontend+Developer+✨;💕+UI%2FUX+Princess+💕;🌸+Code+%26+Coffee+Lover+🌸;🦄+Dream+Builder+🦄)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Frontend+Developer+✨;💕+UI%2FUX+Princess+💕;🌸+Code+%26+Pink+Lover+🌸;🦄+Dream+Builder+🦄)](https://git.io/typing-svg)
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=reanjoy&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="profile views" />
@@ -31,7 +31,7 @@
 - 🔮 Currently crafting **beautiful web applications**
 - 🌸 Learning **advanced React magic & CSS wizardry**
 - 💬 Chat with me about **JavaScript, React, Pretty UIs**
-- 📧 Message me at **your.email@example.com**
+- 📧 Message me at **reanjoycatci@gmailcom**
 - 🎵 Fun fact: **I code to Taylor Swift playlists** 🎶
 
 </td>
@@ -90,35 +90,6 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 📊 My Coding Journey 💕
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reanjoy&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=reanjoy&theme=radical&hide_border=true&background=0d1117&stroke=ff69b4&ring=ff69b4&fire=ffb6c1&currStreakLabel=ff69b4" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reanjoy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff" />
-</div>
-
----
-
-## 🏆 Achievement Unlocked! ✨
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reanjoy&theme=radical&no-frame=true&no-bg=true&margin-w=4&title=Stars,Followers,Commits,Repositories,MultipleLang" />
-</div>
-
----
-
-## 💝 My Coding Activity 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reanjoy&theme=redical&hide_border=true&bg_color=0d1117&color=ff69b4&line=ffb6c1&point=ff69b4" />
-</div>
 
 ---
 
