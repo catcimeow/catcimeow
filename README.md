@@ -2,10 +2,9 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Frontend+Developer+✨;💕+UI%2FUX+Princess+💕;🌸+Code+%26+Coffee+Lover+🌸;🦄+Dream+Builder+🦄)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Frontend+Developer+✨;💕+UI%2FUX+Princess+💕;🌸+Code+%26+Pink+Lover+🌸;🦄+Dream+Builder+🦄)](https://git.io/typing-svg)
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=reanjoy&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="profile views" />
     <img src="https://img.shields.io/badge/Made%20with-💖-ff69b4?style=for-the-badge" alt="made with love" />
   </p>
   
