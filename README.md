@@ -35,7 +35,7 @@
 <td width="50%">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <img src="https://imgur.com/a/c65Peqf" width="200"/>
   <br>
   <img src="https://imgur.com/a/c65Peqf" alt="Princess Status" />
 </div>
