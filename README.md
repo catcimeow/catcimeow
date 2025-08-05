@@ -1,106 +1,153 @@
-# 👋 Hello, I'm **Rean Joy S. Cicat**
+# 💖 Hello Gorgeous! I'm **Rean Joy S. Cicat** ✨
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Enthusiast;Problem+Solver;Tech+Innovator)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Frontend+Developer+✨;💕+UI%2FUX+Princess+💕;🌸+Code+%26+Coffee+Lover+🌸;🦄+Dream+Builder+🦄)](https://git.io/typing-svg)
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=reanjoy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=reanjoy&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="profile views" />
+    <img src="https://img.shields.io/badge/Made%20with-💖-ff69b4?style=for-the-badge" alt="made with love" />
   </p>
   
 </div>
 
----
-
-## 🌟 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-🎯 **Passionate Frontend Developer** from the beautiful Philippines 🇵🇭  
-🚀 **Crafting digital experiences** that users love  
-💡 **Always learning**, always growing  
-🎨 **Design meets functionality** in every project  
-
-- 🔭 Currently working on **innovative web applications**
-- 🌱 Learning **advanced React patterns & modern CSS**
-- 💬 Ask me about **JavaScript, React, UI/UX Design**
-- 📫 Reach me at **your.email@example.com**
-- ⚡ Fun fact: **I turn coffee into code** ☕️
-
-<br clear="right"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🌸 About This Coding Princess 👑
+
+<table>
+<tr>
+<td width="50%">
+
+### 💕 Who Am I?
+🌺 **Passionate Frontend Developer** from the beautiful Philippines 🇵🇭  
+🎀 **Creating magical digital experiences** with love & code  
+✨ **Always dreaming, always coding**  
+🦄 **Where creativity meets technology**  
+
+### 🌟 Current Adventures
+- 🔮 Currently crafting **beautiful web applications**
+- 🌸 Learning **advanced React magic & CSS wizardry**
+- 💬 Chat with me about **JavaScript, React, Pretty UIs**
+- 📧 Message me at **your.email@example.com**
+- 🎵 Fun fact: **I code to Taylor Swift playlists** 🎶
+
+</td>
+<td width="50%">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🎀 My Pretty Tech Stack 💅
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💖 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,cpp,python,php" />
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FF69B4" />
+  <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=FF69B4" />
+  <img src="https://img.shields.io/badge/C++-FFB6C1?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=FF69B4" />
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white&labelColor=FF69B4" />
+  <img src="https://img.shields.io/badge/PHP-FFB6C1?style=for-the-badge&logo=php&logoColor=white&labelColor=FF69B4" />
 </p>
 
-### 🎨 Frontend Technologies
+### 🌸 Frontend Magic
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white&labelColor=FF69B4" />
+  <img src="https://img.shields.io/badge/React_Native-FFB6C1?style=for-the-badge&logo=react&logoColor=white&labelColor=FF69B4" />
+  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF69B4" />
+  <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white&labelColor=FF69B4" />
 </p>
 
-### 🗄️ Backend & Database
+### 🦄 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+  <img src="https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=FF69B4" />
+  <img src="https://img.shields.io/badge/MongoDB-FFB6C1?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=FF69B4" />
+  <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF69B4" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🎨 Tools & More Cuteness
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino" />
-</p>
-
-### 📊 Data Visualization
-<p>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+  <img src="https://img.shields.io/badge/Chart.js-FFB6C1?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=FF69B4" />
+  <img src="https://img.shields.io/badge/Arduino-FFB6C1?style=for-the-badge&logo=arduino&logoColor=white&labelColor=FF69B4" />
+  <img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white&labelColor=FF69B4" />
+  <img src="https://img.shields.io/badge/VS_Code-FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=FF69B4" />
 </p>
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reanjoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=reanjoy&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reanjoy&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 My Coding Journey 💕
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reanjoy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reanjoy&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=reanjoy&theme=radical&hide_border=true&background=0d1117&stroke=ff69b4&ring=ff69b4&fire=ffb6c1&currStreakLabel=ff69b4" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reanjoy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 Achievement Unlocked! ✨
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reanjoy&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=reanjoy&theme=radical&no-frame=true&no-bg=true&margin-w=4&title=Stars,Followers,Commits,Repositories,MultipleLang" />
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 💝 My Coding Activity 
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reanjoy&theme=redical&hide_border=true&bg_color=0d1117&color=ff69b4&line=ffb6c1&point=ff69b4" />
+</div>
+
+---
+
+## 🌺 Let's Be Coding Besties! 💕
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  <table>
+  <tr>
+  <td align="center">
+    <a href="https://linkedin.com/in/yourprofile">
+      <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://twitter.com/yourhandle">
+      <img src="https://img.shields.io/badge/Twitter-FFB6C1?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://yourportfolio.com">
+      <img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+  </td>
+  <td align="center">
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </td>
+  </tr>
+  </table>
   
 </div>
 
@@ -108,10 +155,14 @@
 
 <div align="center">
   
-  ### 💫 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  ### 💖 *"First, solve the problem. Then, write the code... but make it cute!"* ✨
   
-  **⭐️ From [reanjoy](https://github.com/reanjoy) with ❤️**
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  
+  **🌸 Crafted with 💕 by [Rean Joy](https://github.com/reanjoy) 🌸**
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   
 </div>
